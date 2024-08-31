@@ -117,4 +117,7 @@ int main()
 <hr/>
 
 "# Simple-Calculator-CPP"
-@Copyright 2024| v1.0
+
+<br/>
+
+@Copyright 2024 | v1.0
