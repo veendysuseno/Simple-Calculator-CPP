@@ -115,4 +115,6 @@ int main()
 4. **View Results:** The result will be displayed in the terminal.
 
 <hr/>
-"# Simple-Calculator-CPP" 
+
+"# Simple-Calculator-CPP"
+@Copyright 2024| v1.0
